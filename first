@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h1>In the beginning</h1>
+
+<p>he started out knowing nothing of coding</p>
+
+<button onclick="showcontent()">Show hidden content</button>"
+
+<template>
+<h2>Flower</h2>
+<img src="img.white.flower.jpg" width="214" height="204"
+</template>
+
+
+
+
+
+
+
+</body>
+</html>
